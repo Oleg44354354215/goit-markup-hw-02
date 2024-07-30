@@ -152,7 +152,11 @@ text-align: center;
 text-transform: capitalize;
 color: #2e2f42;
 }
-.photo{
+.photo-team{
+  background-color: #FFFFFF;
+}
+
+.team-list{
   background-color: #FFFFFF;
 }
 .person-name {
