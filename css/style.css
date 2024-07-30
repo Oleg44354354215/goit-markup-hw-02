@@ -42,24 +42,25 @@ color: #4d5ae5;
 .list {
 }
 
-.list-item,
-.list-itemm {
+.list-item {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
-.list-item:hover,
-.list-itemm:hover{
+.list-item:hover,{
   color: #404bbf;
 }
-.list-itemm:active{
+.list-item:active{
 color: #404bbf;
-background: #404bbf;
+}
+.list-item:focus{
+  color: #404bbf;
 }
 
 .address {
+  font-style: normal;
 }
 .menu-adress {
 }
@@ -76,6 +77,10 @@ color: #434455;
 }
 .item-adress:hover{
 color: #404bbf;
+}
+
+.item-adress:focus{
+  color: #404bbf;
 }
 /* #endregion header */
 
