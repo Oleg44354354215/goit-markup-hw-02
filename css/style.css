@@ -189,21 +189,22 @@ color: #434455;
 .foot {
 }
 .foot-section {
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 .foot-name {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
 font-size: 18px;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4d5ae5;
+text-transform: uppercase;
 }
 .foot-studio {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
 font-size: 18px;
-line-height: 1.16;
+line-height: 1.17;
 letter-spacing: 0.03em;
 color: #f4f4fd;
 }
@@ -212,7 +213,7 @@ color: #f4f4fd;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #f4f4fd;
+color: #f4f4fd;;
 }
 /* #endregion footer */
 
